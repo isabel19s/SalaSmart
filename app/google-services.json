@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231435969882",
+    "project_id": "salasmart-d7d55",
+    "storage_bucket": "salasmart-d7d55.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231435969882:android:bfa596c9c9a23f21227f63",
+        "android_client_info": {
+          "package_name": "com.example.salasmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-o9WcuTgF0wA6jtsnZe5b0GKHhoI-R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
